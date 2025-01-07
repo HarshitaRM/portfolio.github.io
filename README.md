@@ -46,8 +46,7 @@ Here's a glimpse into my journey:
 
 ## 🌐 Find Me Online
 
-- [GitHub]
-- [LinkedIn]
+- [GitHub]https://github.com/HarshitaRM/portfolio.github.io
 
 ## Portfolio Highlights
 
